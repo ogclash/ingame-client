@@ -1,0 +1,9 @@
+#Tue, 07 Mar 2017 13:43:19 +0200
+#build version number file
+
+version=8
+
+#do not edit this otherwise than change this to 0 when you update version or revision number
+build=709
+
+content_revision=4
